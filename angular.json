@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "Pauvath-Family": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Pauvath-Family"
+    }
+  },
+  "defaultProject": "Pauvath-Family",
+  "cli": {
+    "analytics": "ebe72dcd-65e7-49ce-90ed-6c1bc1070c26"
+  }
 }
