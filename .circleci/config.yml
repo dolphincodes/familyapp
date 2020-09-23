@@ -27,4 +27,9 @@ jobs:
       - run:
           name: End to End Test
           command: npm run e2e
-
+    filters:
+      branches:
+        only:
+          - master
+          - production
+          - staging
