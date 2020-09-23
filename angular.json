@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Pauvath-Family"
+    }
+  },
+  "defaultProject": "Pauvath-Family",
+  "cli": {
+    "analytics": "ebe72dcd-65e7-49ce-90ed-6c1bc1070c26"
+  }
 }
