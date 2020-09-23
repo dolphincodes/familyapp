@@ -8,7 +8,7 @@
     "test": "ng test --no-watch --no-progress --browsers=ChromeHeadlessCI",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "doc": "ng build --prod --output-path docs --base-href /Family_Web_FE/"
+    "doc": "ng build --prod --output-path docs --base-href /familyapp/"
   },
   "private": true,
   "dependencies": {
